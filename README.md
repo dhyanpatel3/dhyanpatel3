@@ -22,6 +22,6 @@ As a third-year B.Tech IT student with a passion for web development, I create i
 </picture> 
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@dhyanpatel3) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/dhyanpatel3?country.x=IN&locale.x=en_GB) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
