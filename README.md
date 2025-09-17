@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a third-year B.Tech IT student with a passion for web development, I create innovative and user-friendly web applications. Eager to learn and grow, I strive to enhance my skills and contribute to impactful projects.
+A Final-year B.Tech IT student passionate about the intersection of web development and AI. I specialize in building intelligent, user-centric web applications that solve complex problems with clean code.
 
 
 ## 🌐 Socials:
